@@ -81,6 +81,14 @@
          
     </url>
     <url>
+         <loc>https://chatgpt.gold/trial/</loc>
+         <lastmod>2023-04-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/trial/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/trial/"/>
+         
+    </url>
+    <url>
          <loc>https://chatgpt.gold/usage/</loc>
          <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
