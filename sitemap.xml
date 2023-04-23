@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>https://chatgpt.gold/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/"/>
@@ -10,7 +10,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/about/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/about/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/about/"/>
@@ -18,7 +18,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/build-from-source/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/build-from-source/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/build-from-source/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/donate/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/donate/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/donate/"/>
@@ -34,7 +34,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/faq/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/faq/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/faq/"/>
@@ -42,7 +42,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/freemium/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/freemium/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/freemium/"/>
@@ -50,7 +50,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/getting-started/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/getting-started/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/getting-started/"/>
@@ -58,7 +58,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/license/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/license/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/license/"/>
@@ -66,7 +66,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/migration/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/migration/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/migration/"/>
@@ -74,7 +74,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/settings/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/settings/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/settings/"/>
@@ -82,7 +82,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/usage/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/usage/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/usage/"/>
@@ -90,7 +90,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/blog/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/blog/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/blog/"/>
@@ -98,7 +98,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/blog/posts/2023/ChatGPTGold-has-been-released/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/blog/posts/2023/ChatGPTGold-has-been-released/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/blog/posts/2023/ChatGPTGold-has-been-released/"/>
@@ -106,7 +106,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/release/2023.4.1/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/release/2023.4.1/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/release/2023.4.1/"/>
@@ -114,7 +114,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/settings/chatgpt-settings/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/settings/chatgpt-settings/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/settings/chatgpt-settings/"/>
@@ -122,7 +122,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/settings/custom-prefix-settings/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/settings/custom-prefix-settings/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/settings/custom-prefix-settings/"/>
@@ -130,7 +130,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/settings/gpt-3.5-turbo-settings/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/settings/gpt-3.5-turbo-settings/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/settings/gpt-3.5-turbo-settings/"/>
@@ -138,7 +138,7 @@
     </url>
     <url>
          <loc>https://chatgpt.gold/settings/openai-settings/</loc>
-         <lastmod>2023-04-22</lastmod>
+         <lastmod>2023-04-23</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/settings/openai-settings/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/settings/openai-settings/"/>
