@@ -121,6 +121,22 @@
          
     </url>
     <url>
+         <loc>https://chatgpt.gold/release/2023.4.2/</loc>
+         <lastmod>2023-04-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/release/2023.4.2/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/release/2023.4.2/"/>
+         
+    </url>
+    <url>
+         <loc>https://chatgpt.gold/release/2023.4.3/</loc>
+         <lastmod>2023-04-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://chatgpt.gold/zh/release/2023.4.3/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://chatgpt.gold/en/release/2023.4.3/"/>
+         
+    </url>
+    <url>
          <loc>https://chatgpt.gold/settings/chatgpt-settings/</loc>
          <lastmod>2023-04-24</lastmod>
          <changefreq>daily</changefreq>
